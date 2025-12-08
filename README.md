@@ -4,7 +4,7 @@ This zsh/bash script runs on macOS Tahoe and shows your aliases in a cleaner, mo
 
 <br>
 
-<img width="359" height="232" alt="image" src="https://github.com/user-attachments/assets/a6480588-b5c0-4c81-a54b-0d1ee3b62bbe" />
+<img width="354" height="196" alt="image" src="https://github.com/user-attachments/assets/bd8f0c98-9ee6-4d76-ac08-a57da9684f07" />
 
 <br><br>
 
